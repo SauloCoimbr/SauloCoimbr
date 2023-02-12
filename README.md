@@ -1,9 +1,10 @@
-### Ola! Sou o Saulo Coimbra 👋
+### Olá! Sou o Saulo Coimbra 👋
 
 
 
 - 🔭 Atualmente estudo Ciência da Computação
-- 🌱 Aprendendo CSS3, HTML5, Python e Java Script
+- 🌱 Aprendendo Programação [CSS3, HTML5, Python e Java Script]
+- 📒 Aprendendo Inglês Intermediário
 
 -->
 <div>
