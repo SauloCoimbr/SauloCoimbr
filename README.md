@@ -5,6 +5,7 @@
 - 🔭 Atualmente estudo Ciência da Computação
 - 🌱 Aprendendo Programação [CSS3, HTML5, Python e Java Script]
 - 📒 Aprendendo Inglês Intermediário
+- 📒 Aprendendo Italiano
 
 -->
 <div>
