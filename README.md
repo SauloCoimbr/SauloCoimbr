@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estudo Ciência da Computação
-- 🌱 Aprendendo Programação [CSS3, HTML5, Python e Java Script]
+- 🌱 Aprendendo Programação [CSS3, HTML5, JavaScript, ReactJs, TypeScript]
 - 📒 Aprendendo Inglês Intermediário
 - 📒 Aprendendo Italiano
 
